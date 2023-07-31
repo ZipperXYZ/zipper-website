@@ -77,7 +77,7 @@ const animate = async () => {
     await term.echo(Before+"| age: ???        |",{ typing: true })
     await term.echo(Before+"| location: ???   |",{ typing: true })
     await term.echo(Before+"| programmer: yes |",{ typing: true })
-    await term.echo(Before+"| artist: yes |",{ typing: true })
+    await term.echo(Before+"| artist: yes     |",{ typing: true })
     await term.echo(Before+"| alive: yes      |",{ typing: true })
     await term.echo(Before+"-------------------",{ typing: true })
     await term.echo(Before+"",{ typing: true })
