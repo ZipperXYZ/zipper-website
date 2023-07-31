@@ -1,0 +1,6 @@
+.terminal {
+    text-shadow: 0 0.2rem 1rem #ff01ff;
+    --size: 2.3;
+    --color: rgba(255, 50, 255, 0.99);
+    --glow: 2;
+}
