@@ -21,7 +21,7 @@ const script = async () => {
     animation = true;
     await term.echo(Before+"",{ typing: true })
     await term.echo(Before+"",{ typing: true })
-    await term.echo(Before+"Hey, i'm a sripter that makes cool looking game and stuff",{ typing: true })
+    await term.echo(Before+"Hey, i'm a scripter that makes cool looking game and stuff",{ typing: true })
     await term.echo(Before+"check it out if you can.",{ typing: true })
     await term.echo(Before+"https://www.roblox.com/games/10478677272/Kepler-6DFG-SHOWCASE and https://www.roblox.com/games/12744835357/CAR-CRASHING-SYSTEM")
     await term.echo(Before+"These are exemple of some stuff i made on roblox. I've also worked for studio like Creative storm",{ typing: true })
